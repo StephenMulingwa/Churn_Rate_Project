@@ -49,8 +49,11 @@ v. RNN and CNN Model Comparison
 ![image](https://github.com/user-attachments/assets/b522e4d4-7fae-4543-86a3-c32de17c335a)
 
 **RNN Model Accuracy: 0.8870000243186951 **
+
 This value represents the accuracy achieved by the RNN model. Accuracy is a measure of the proportion of correct predictions made by the model out of the total number of predictions. In this case, an accuracy of approximately 0.887 indicates that the RNN model correctly predicted the class of 88.7% of the samples in the dataset used for evaluation.
+
 **CNN Model Accuracy: 0.8974999785423279**
+
 This value represents the accuracy achieved by the CNN model. Similarly, an accuracy of approximately 0.897 indicates that the CNN model correctly predicted the class of 89.75% of the samples in the dataset used for evaluation.
 In summary, the output provides a comparison of the performance of the RNN and CNN models in predicting churn rate based on their respective accuracies. The CNN model has a slightly higher accuracy than the RNN model, suggesting that it may perform slightly better in correctly classifying instances of churn and non-churn.
 
